@@ -1,10 +1,6 @@
-# 👋 Hello, I'm [Your Name]  
+# 👋 Hello, I'm Farhadul Islam
 
-I am a **self-taught Full-stack web/mobile developer** from [Your Country].  
-
-I enjoy taking up **complex problems** and turning them into **simple and beautiful interface designs**.  
-
-I also love the logic and structure of coding and always strive to write **elegant and efficient code**, whether it be **HTML, CSS, JavaScript, or backend technologies**.  
+I am a second-year Computer Science and Engineering student at the International Islamic University Chittagong. I am passionate about Cybersecurity and Software Development.
 
 ---
 
