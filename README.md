@@ -8,8 +8,8 @@ I am a second-year Computer Science and Engineering student at the International
 <a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 <a href="https://codeforces.com/profile/Darth_Farhad" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%231560-blue?style=for-the-badge" /></a>
-<a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="farhadulislam84054@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/users/elfaradio84054" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhadulislam84054@gmail.com)  
 
 
 ## 📊 GitHub Stats  
