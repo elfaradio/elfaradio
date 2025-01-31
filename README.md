@@ -2,8 +2,8 @@
 
 # 👨‍🏫 About me
 I am a second-year Computer Science and Engineering student at the International Islamic University Chittagong. I am passionate about Cybersecurity and Software Development.I have a deep interest in solving complex problems, whether in programming, security challenges, or software design.I'm dedicated to my studies and enjoy working on practical projects to improve my skills. I'm curious about new trends in technology and aim to make a positive impact in the tech world.
-# 📬 Connect with Me  
-
+📬 Connect with Me  
+--
 <a href="https://www.linkedin.com/in/farhadul-islam-766611280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
