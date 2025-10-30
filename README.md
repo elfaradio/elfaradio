@@ -18,12 +18,11 @@ I am a third-year Computer Science and Engineering student at the International 
 
 [![YOUR_CF_USERNAME's CodeForces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad)](https://codeforces.com/profile/Darth_Farhad)
 
-
 📊 **GitHub Stats**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight&cache_seconds=1800)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 
