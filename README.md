@@ -17,7 +17,7 @@ I am a third-year Computer Science and Engineering student at the International 
 ⚡ Competitive Programming
 
 [![YOUR_CF_USERNAME's CodeForces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad)](https://codeforces.com/profile/Darth_Farhad)
-<div align="center">
+
 
 📊 **GitHub Stats**
 
@@ -25,5 +25,5 @@ I am a third-year Computer Science and Engineering student at the International 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight)
 
-</div>
+
 
