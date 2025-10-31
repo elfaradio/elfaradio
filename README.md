@@ -38,11 +38,9 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 ---
 
 ## 📊 GitHub Stats & Activity
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight)
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=elfaradio&theme=react&border=61dafb&hide_border=true" alt="Streak Stats"/>
-  </a>
+ 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
   </a>
