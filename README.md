@@ -38,18 +38,21 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 ---
 
 ## 📊 GitHub Stats & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight)
-<p align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
-  </a>
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=elfaradio&theme=react&border=61dafb&hide_border=true" width="390" alt="Streak Stats"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="390" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
 </p>
 
 <p align="center">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
