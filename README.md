@@ -4,7 +4,9 @@ I am a third-year **Computer Science and Engineering** student at the **Internat
 I am passionate about **Machine Learning** and **Software Development**, and I enjoy solving complex problems and working on practical projects to improve my skills.  
 I'm curious about new trends in technology and aim to make a positive impact in the tech world.
 
-📬 Connect with Me
+---
+
+## 📬 Connect with Me
 
 <a href="https://www.linkedin.com/in/farhadul-islam-766611280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -23,7 +25,7 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -35,10 +37,21 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=elfaradio&theme=react&border=61dafb&hide_border=true" alt="Streak Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
