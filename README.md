@@ -38,9 +38,9 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 ---
 
 ## 📊 GitHub Stats & Activity
-
-<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight)
+<p align="center">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
   </a>
