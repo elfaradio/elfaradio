@@ -1,8 +1,12 @@
 # 👋 Hello, I'm Farhadul Islam
 
-I am a third-year Computer Science and Engineering student at the International Islamic University Chittagong. I am passionate about Machine Learning and Software Development. I enjoy solving complex problems and working on practical projects to improve my skills. I'm curious about new trends in technology and aim to make a positive impact in the tech world.
+I am a third-year **Computer Science and Engineering** student at the **International Islamic University Chittagong**.  
+I am passionate about **Machine Learning** and **Software Development**, and I enjoy solving complex problems and working on practical projects to improve my skills.  
+I'm curious about new trends in technology and aim to make a positive impact in the tech world.
 
-📬 Connect with Me  
+---
+
+## 📬 Connect with Me  
 
 <a href="https://www.linkedin.com/in/farhadul-islam-766611280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -23,7 +27,7 @@ I am a third-year Computer Science and Engineering student at the International 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
