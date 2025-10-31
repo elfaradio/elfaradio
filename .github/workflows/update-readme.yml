@@ -1,62 +1,57 @@
-name: Auto Update Profile README
+name: Update Readme
 
 on:
+  workflow_dispatch: # manual trigger
   schedule:
-    - cron: "0 0 * * *" # every day at midnight UTC
-  workflow_dispatch: # manual trigger option
+    - cron: '0 12 * * *' # runs daily at 12:00 UTC
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Checkout the repo
-      - name: Checkout
+      # Step 1: Checkout the repo
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      # 2️⃣ Update GitHub Recent Activity
+      # Step 2: Update GitHub Activity Section
       - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 3️⃣ Update full WakaTime stats
+      # Step 3: Update WakaTime Stats
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "elfaradio"
+          COMMIT_USERNAME: "Farhadul Islam"
           COMMIT_EMAIL: "farhadulislam84054@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
           SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True"
 
-      # 4️⃣ Update simple WakaTime stats section
-      - name: Update Simple WakaTime Stats
+      # Step 4: Update Simple WakaTime Stats
+      - name: Update WakaTime Simple
         uses: guilyx/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "waka-simple"
-          COMMIT_MESSAGE: "Updated simple waka stats section"
+          COMMIT_MESSAGE: "Updated simple WakaTime stats section"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
-
-      # 5️⃣ Commit and push changes if any
-      - name: Commit & Push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet || git commit -m "🕒 Auto-update README"
-          git push
