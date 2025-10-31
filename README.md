@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Farhadul Islam
 
-I am a third-year Computer Science and Engineering student at the International Islamic University Chittagong. I am passionate about Machine Learning and Software Development. I enjoy solving complex problems and working on practical projects to improve my skills. I'm curious about new trends in technology and aim to make a positive impact in the tech world.
+I am a third-year **Computer Science and Engineering** student at the **International Islamic University Chittagong**.  
+I am passionate about **Machine Learning** and **Software Development**, and I enjoy solving complex problems and working on practical projects to improve my skills.  
+I'm curious about new trends in technology and aim to make a positive impact in the tech world.
 
 📬 Connect with Me
 
@@ -41,4 +43,32 @@ I am a third-year Computer Science and Engineering student at the International 
 
 ---
 
-#
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section will auto-update via workflow -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 WakaTime Stats
+
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs-blue)
+
+<!--START_SECTION:waka-->
+<!-- This section will auto-update via workflow -->
+<!--END_SECTION:waka-->
+
+---
+
+## 📊 Simple WakaTime Stats
+
+<!--START_SECTION:waka-simple-->
+<!-- This section will auto-update via workflow -->
+<!--END_SECTION:waka-simple-->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
