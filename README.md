@@ -12,7 +12,7 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 <a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/Darth_Farhad" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%231560-blue?style=for-the-badge" /></a>
 <a href="https://discord.com/users/elfaradio84054" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhadulislam84054@gmail.com)
+<a href="mailto:farhadulislam84054@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
@@ -42,31 +42,29 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=elfaradio&theme=react&border=61dafb&hide_border=true" width="390" alt="Streak Stats"/>
-
+  
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="390" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="390" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
-
-
-
-
-
+---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=elfaradio&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
