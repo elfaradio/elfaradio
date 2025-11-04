@@ -41,10 +41,10 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=elfaradio&theme=react&border=61dafb&hide_border=true" width="390" alt="Streak Stats"/>
-  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=dark" width="390" alt="GitHub Streak Stats"/></a>
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="390" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" width="390" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -67,4 +67,4 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 
 [![](https://visitcount.itsvg.in/api?id=elfaradio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
