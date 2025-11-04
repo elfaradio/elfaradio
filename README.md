@@ -49,10 +49,24 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 
 <p align="center">
   <!-- Top Languages -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-</p>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <p align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+
+
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=elfaradio&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
