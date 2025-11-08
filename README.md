@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Farhadul Islam
 
 I am a third-year **Computer Science and Engineering** student at the **International Islamic University Chittagong**.  
-I am passionate about **Machine Learning** and **Software Development**, and I enjoy solving complex problems and working on practical projects to improve my skills.  
-I'm curious about new trends in technology and aim to make a positive impact in the tech world.
+I’m passionate about **Machine Learning** and **Software Development**, and I enjoy solving complex problems and working on practical projects to sharpen my skills.  
+I’m curious about new trends in technology and aim to make a positive impact in the tech world.
 
 ---
 
@@ -33,7 +33,7 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 
 ## ⚡ Competitive Programming
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad)](https://codeforces.com/profile/Darth_Farhad)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad&theme=github_dark)](https://codeforces.com/profile/Darth_Farhad)
 
 ---
 
@@ -41,15 +41,17 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 
 <p align="center">
   <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=dark" width="390" alt="GitHub Streak Stats"/></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight&hide_border=true" width="390" alt="GitHub Streak Stats"/>
+  </a>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" width="390" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&count_private=true&border_color=61dafb&hide_border=true&cache_seconds=7200" width="390" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="390" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=tokyonight&layout=compact&count_private=true&hide_border=true&cache_seconds=7200" width="390" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -59,12 +61,10 @@ I'm curious about new trends in technology and aim to make a positive impact in 
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=elfaradio&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
