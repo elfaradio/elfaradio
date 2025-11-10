@@ -52,23 +52,13 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 <div align="center">
 
   <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight&hide_border=true" width="390" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=elfaradio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="390" alt="GitHub Stats" />
 
-</div>
-
-<div align="center">
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=tokyonight&layout=compact&count_private=true&hide_border=true" width="390" alt="Top Languages" />
-
-</div>
-
-<div align="center">
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
