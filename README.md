@@ -8,21 +8,11 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 ## 📬 Connect with Me
 
-<a href="https://www.linkedin.com/in/farhadul-islam-766611280/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/Darth_Farhad" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://discord.com/users/elfaradio84054" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:farhadulislam84054@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhadul-islam-766611280/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/farhadul.islam.rakib.2024)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Darth_Farhad)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/elfaradio84054)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhadulislam84054@gmail.com)
 
 ---
 
@@ -43,7 +33,7 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 ## ⚡ Competitive Programming
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad&theme=github_dark)](https://codeforces.com/profile/Darth_Farhad)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad&theme=github_dark&cache_seconds=1800)](https://codeforces.com/profile/Darth_Farhad)
 
 ---
 
@@ -52,16 +42,16 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=elfaradio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=elfaradio&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="390" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800)
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=tokyonight&layout=compact&count_private=true&hide_border=true" width="390" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=tokyonight&layout=compact&count_private=true&hide_border=true&cache_seconds=1800)
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true&cache_seconds=1800)
 
 </div>
 
@@ -69,7 +59,7 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 ### 🔝 Top Contributed Repositories
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=1800)
 
 ---
 
