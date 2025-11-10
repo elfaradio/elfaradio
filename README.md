@@ -1,18 +1,28 @@
 # 👋 Hello, I'm Farhadul Islam
 
-I am a third-year **Computer Science and Engineering** student at the **International Islamic University Chittagong**.  
-I’m passionate about **Machine Learning** and **Software Development**, and I enjoy solving complex problems and working on practical projects to sharpen my skills.  
-I’m curious about new trends in technology and aim to make a positive impact in the tech world.
+I’m a third-year **Computer Science and Engineering** student at the **International Islamic University Chittagong**.  
+I’m passionate about **Machine Learning** and **Software Development**, and I love tackling complex problems through hands-on projects that sharpen my skills.  
+I stay curious about emerging technologies and aspire to make a positive impact in the tech world.
 
 ---
 
 ## 📬 Connect with Me
 
-<a href="https://www.linkedin.com/in/farhadul-islam-766611280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/Darth_Farhad" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%231560-blue?style=for-the-badge" /></a>
-<a href="https://discord.com/users/elfaradio84054" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:farhadulislam84054@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/farhadul-islam-766611280/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/farhadul.islam.rakib.2024" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/Darth_Farhad" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://discord.com/users/elfaradio84054" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:farhadulislam84054@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
@@ -39,25 +49,31 @@ I’m curious about new trends in technology and aim to make a positive impact i
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
+<div align="center">
+
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight&hide_border=true" width="390" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elfaradio&theme=tokyonight&hide_border=true" width="390" alt="GitHub Streak Stats" />
   </a>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&count_private=true&border_color=61dafb&hide_border=true&cache_seconds=7200" width="390" alt="GitHub Stats"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="390" alt="GitHub Stats" />
 
-<p align="center">
+</div>
+
+<div align="center">
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=tokyonight&layout=compact&count_private=true&hide_border=true&cache_seconds=7200" width="390" alt="Top Languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=tokyonight&layout=compact&count_private=true&hide_border=true" width="390" alt="Top Languages" />
 
-<p align="center">
+</div>
+
+<div align="center">
+
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
 
 ---
 
@@ -67,4 +83,4 @@ I’m curious about new trends in technology and aim to make a positive impact i
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=elfaradio&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=elfaradio&label=Profile%20Views&color=0&icon=5)
