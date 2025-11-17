@@ -36,23 +36,16 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad&theme=github_dark&cache_seconds=7200&v=1)](https://codeforces.com/profile/Darth_Farhad)
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=elfaradio&theme=tokyonight&hide_border=true)
 
-<!-- GitHub Stats (working mirror) -->
-![GitHub Stats](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![GitHub Stats](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages (working mirror) -->
-![Top Languages](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Top Languages](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true)
 
 </div>
