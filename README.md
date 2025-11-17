@@ -1,17 +1,17 @@
 # 👋 Hello, I'm Farhadul Islam
 
 I’m a third-year **Computer Science and Engineering** student at the **International Islamic University Chittagong**.  
-I’m passionate about **Machine Learning** and **Software Development**, and I love tackling complex problems through hands-on projects that sharpen my skills.  
+I’m passionate about **Machine Learning** and **Software Development**, and I enjoy solving complex challenges through hands-on projects.  
 I stay curious about emerging technologies and aspire to make a positive impact in the tech world.
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhadul-islam-766611280/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/farhadul.islam.rakib.2024)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Darth_Farhad)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/elfaradio84054)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhadul-islam-766611280/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/farhadul.islam.rakib.2024)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Darth_Farhad)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/elfaradio84054)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhadulislam84054@gmail.com)
 
 ---
@@ -33,7 +33,7 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 ## ⚡ Competitive Programming
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad&theme=github_dark&cache_seconds=1800)](https://codeforces.com/profile/Darth_Farhad)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad&theme=github_dark&cache_seconds=7200&v=1)](https://codeforces.com/profile/Darth_Farhad)
 
 ---
 
@@ -41,17 +41,17 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 <div align="center">
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=elfaradio&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<!-- GitHub Streak (Reliable Mirror) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=elfaradio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1)
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800)
+<!-- GitHub Stats (Rickstaa Mirror) -->
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=tokyonight&layout=compact&count_private=true&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=2)
 
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true&cache_seconds=1800)
+<!-- Activity Graph (Updated Mirror) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true&v=2)
 
 </div>
 
@@ -59,4 +59,6 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 ### 🔝 Top Contributed Repositories
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=1800)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=2)
+
+---
