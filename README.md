@@ -35,22 +35,18 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Darth_Farhad&theme=github_dark&cache_seconds=7200&v=1)](https://codeforces.com/profile/Darth_Farhad)
 
----
-## 📊 GitHub Stats & Activity
+# 📊 GitHub Stats:
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=elfaradio&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=elfaradio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=elfaradio&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaradio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=elfaradio&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ### 🔝 Top Contributed Repositories
 
