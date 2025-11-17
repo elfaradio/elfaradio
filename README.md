@@ -41,21 +41,19 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 <div align="center">
 
-<!-- GitHub Streak (Reliable Mirror) -->
+<!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=elfaradio&theme=tokyonight&hide_border=true)
 
+<!-- GitHub Stats (working mirror) -->
+![GitHub Stats](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-<!-- GitHub Stats (Rickstaa Mirror) -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elfaradio&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Top Languages (working mirror) -->
+![Top Languages](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Languages](https://raw.githubusercontent.com/elfaradio/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-
-<!-- Top Languages -->
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elfaradio&layout=compact&theme=tokyonight&hide_border=true)
-
-
-<!-- Activity Graph (Updated Mirror) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true&v=2)
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elfaradio&theme=react-dark&bg_color=20232a&hide_border=true)
 
 </div>
 
@@ -63,6 +61,6 @@ I stay curious about emerging technologies and aspire to make a positive impact 
 
 ### 🔝 Top Contributed Repositories
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=2)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=elfaradio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
